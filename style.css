@@ -1,0 +1,21 @@
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4{
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    text-align: center;
+}
+
+.icons{
+    padding: 0px 75px 0px 75px;
+}
+
+body {
+    padding-bottom: 20px;
+}
+  
+.navbar {
+    margin-bottom: 20px;
+}
